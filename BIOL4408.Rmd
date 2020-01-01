@@ -2,7 +2,7 @@
 title: "BIOL4408MarineEcology"
 author: "TimLanglois"
 date: "01/01/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
